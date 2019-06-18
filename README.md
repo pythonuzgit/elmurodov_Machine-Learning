@@ -1,2 +1,2 @@
-# samuz
+# It's about Machine learning
 
