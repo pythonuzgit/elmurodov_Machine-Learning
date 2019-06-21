@@ -19,9 +19,13 @@ Supervised Learning algorithm
 Supervised learning algorithms can be used to solve both and classification and regression problems.
 
 Linear Regresion:
+
 Logistic regression:
+
 k-nearest neigbors:
+
 Support vector machines (SVM):
+
 Naive Bayes:
 
 Unsupervised learning algorithm will be use a metric such as distance in order to identify how close a set of points are to each other and how far apart two such groups are.
