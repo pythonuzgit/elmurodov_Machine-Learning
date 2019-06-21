@@ -9,6 +9,8 @@ NumPy: a library for scientific computing, Linear Algebra and array package.
 Pandas: it provides DataFrame class. Data structures and analysis.
 
 Matplotlib: Data visualization, allows to create various 2d and 3d groups.
-SymPy: Symbolic mathematics.
+
 SciPy: Fundamental library for scientific computing.
+
+SymPy: Symbolic mathematics.
 
