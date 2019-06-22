@@ -24,7 +24,7 @@ Logistic regression: as a tool for building model which is used to a descrete se
 
 k-nearest neigbors: k-nearest neighbor algorithm (KNN) is a non-parmetric method and can be used for both classification and regression problem.
 
-Support vector machines (SVM):
+Support vector machines (SVM): SVMs are a set of related supervised learning methods used for classification and regression. Support vector machines can be defined as systems which use hypothesis space of a linear functions in a high dimensional feature space, trained with a learning algorithm from optimization theory that implements a learning bias derived from statistical learning theory.
 
 Naive Bayes:
 
