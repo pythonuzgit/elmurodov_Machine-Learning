@@ -31,5 +31,6 @@ Naive Bayes: It is a classification technique based on Bayes' theorem and very e
 # Unsupervised learning 
 algorithm will be use a metric such as distance in order to identify how close a set of points are to each other and how far apart two such groups are.
 
-k-Means cluster:
+k-Means cluster: We can use many algorithms to obtain some good results. To solve this kind of a specific problem in the best way. Therefore, the specific algorithm that you want to might depend on the problem you are trying to solve and also on what algorithm are available in the specific package that you are using. For this example, I use method of K-means cluster. As we know some of the first clustering algorithm consisted of simply finding the centroid positions that minimize the distances to all the points in each cluster. The points in each cluster are closer to that centroid than other cluster centroids. As might be obvious at this point, the hardest part with this is figuring out how many clusters there are.
+
 
