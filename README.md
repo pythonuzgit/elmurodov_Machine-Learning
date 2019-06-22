@@ -22,7 +22,7 @@ Linear Regresion: This Supervised Learning algorithm is used to predict continuo
 
 Logistic regression: as a tool for building model which is used to a descrete set of classes. Logistic regression is commonly used when the response variable is continuous and a more complex cost function, this cost function can be defined as the 'Sigmoid function'.
 
-k-nearest neigbors:
+k-nearest neigbors: k-nearest neighbor algorithm (KNN) is a non-parmetric method and can be used for both classification and regression problem.
 
 Support vector machines (SVM):
 
