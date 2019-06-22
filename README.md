@@ -18,7 +18,7 @@ Supervised Learning algorithm
 
 Supervised learning algorithms can be used to solve both and classification and regression problems.
 
-Linear Regresion: This Supervised Learning algorithm is used to predict continuous, numerical values based on given data input. Linear Regressiontries to find parameters of the linear function, so the distance between the all the points and the like is as small as possible.
+Linear Regresion: This Supervised Learning algorithm is used to predict continuous, numerical values based on given data input. Linear Regression tries to find parameters of the linear function, so the distance between the all the points and the like is as small as possible.
 
 Logistic regression:
 
