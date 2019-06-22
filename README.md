@@ -20,7 +20,7 @@ Supervised learning algorithms can be used to solve both and classification and 
 
 Linear Regresion: This Supervised Learning algorithm is used to predict continuous, numerical values based on given data input. Linear Regression tries to find parameters of the linear function, so the distance between the all the points and the like is as small as possible.
 
-Logistic regression: as a tool for building model which is used to a descrete set of classes. Logistic regression is commonly used when the response variable is continuous.
+Logistic regression: as a tool for building model which is used to a descrete set of classes. Logistic regression is commonly used when the response variable is continuous and uses a more complex cost function, this cost function can be defined as the 'Sigmoid function'.
 
 k-nearest neigbors:
 
