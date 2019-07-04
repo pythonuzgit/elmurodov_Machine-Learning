@@ -28,6 +28,8 @@ Support vector machines (SVM): SVMs are a set of related supervised learning met
 
 Naive Bayes: algorithm can be defined as a supervised classification algorithm which is based on Bayes' theorem.
 
+Artificial Neural Network: Neurons are interconnected nerve sells in the brain that are involved in the processing and transmitting of chemical and electrical signals.
+
 # Unsupervised learning 
 algorithm will be use a metric such as distance in order to identify how close a set of points are to each other and how far apart two such groups are.
 
