@@ -14,7 +14,7 @@ SciPy: Fundamental library for scientific computing.
 
 SymPy: Symbolic mathematics.
 
-# Supervised Learning algorithm
+# Supervised Learning 
 
  Supervised learning algorithms can be used to solve both and classification and regression problems.
 
