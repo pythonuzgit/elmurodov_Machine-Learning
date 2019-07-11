@@ -28,7 +28,7 @@ k-nearest neigbors:
 k-nearest neighbor algorithm (KNN) is a non-parmetric method and can be used for both classification and regression problem.
 
 Support vector machines (SVM): 
-SVMs are a set of related supervised learning methods used for classification and regression. Support vector machines can be defined as systems which use hypothesis space of a linear functions in a high dimensional feature space, trained with a learning algorithm from optimization theory that implements a learning bias derived from statistical learning theory.
+SVMs are a set of related supervised learning methods used for classification and regression. Support vector machines can be defined as systems which use hypothesis space of a linear functions in a high dimensional feature space, trained with a learning algorithm from optimization theory that implements a learning bias derived from statistical learning theory. https://github.com/pythonuzgit/samuz/blob/master/Support%20Vector%20Machine%20with%20Nonlinear%20kernel.ipynb
 
 Naive Bayes: 
 algorithm can be defined as a supervised classification algorithm which is based on Bayes' theorem.
