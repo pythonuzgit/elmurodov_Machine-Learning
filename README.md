@@ -33,7 +33,8 @@ SVMs are a set of related supervised learning methods used for classification an
 Naive Bayes: 
 algorithm can be defined as a supervised classification algorithm which is based on Bayes' theorem.
 
-Artificial Neural Network: 
+Neural Network (NNs):
+NNs are the most commonly used tools in Machine Learning. A neural network is a statistical tool to interpret a set of features in the input data and it tries to either classify the input(Classification) and predict the output based on a continuous input(Regression).
 Neurons are interconnected nerve sells in the brain that are involved in the processing and transmitting of chemical and electrical signals.
 
 # Unsupervised learning 
