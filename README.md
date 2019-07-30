@@ -1,4 +1,4 @@
-#  Machine learning with Python
+#  Machine learning with Python <h1>
 
 Within the field of machine learning, there are two main types of tasks: supervised and unsupervised. Scikit-learn provides a wide selection of supervised and unsupervised learning algorithms. 
 
@@ -14,7 +14,7 @@ SciPy: Fundamental library for scientific computing.
 
 SymPy: Symbolic mathematics.
 
-# Supervised Learning 
+# Supervised Learning <h2>
 
  Supervised learning algorithms can be used to solve both and classification and regression problems.
 
@@ -33,11 +33,11 @@ SVMs are a set of related supervised learning methods used for classification an
 Naive Bayes: 
 algorithm can be defined as a supervised classification algorithm which is based on Bayes' theorem.
 
-Neural Network (NNs):
-NNs are the most commonly used tools in Machine Learning. A neural network is a statistical tool to interpret a set of features in the input data and it tries to either classify the input(Classification) and predict the output based on a continuous input(Regression).
+Artificial Neural Network (ANNs):
+ANNs are the most commonly used tools in Machine Learning. A neural network is a statistical tool to interpret a set of features in the input data and it tries to either classify the input(Classification) and predict the output based on a continuous input(Regression).
 The process of creating a neural network in Python begins with the most basic form, a single perceptron. We can extend the discussion to multilayer perceptrons, or more commonly known as artificial neural networks.
 
-# Unsupervised learning 
+# Unsupervised learning <h3>
 algorithm will be use a metric such as distance in order to identify how close a set of points are to each other and how far apart two such groups are.
 
 k-Means cluster: 
