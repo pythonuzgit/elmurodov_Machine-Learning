@@ -13,7 +13,7 @@ SciPy: Fundamental library for scientific computing.
 
 SymPy: Symbolic mathematics.
 
-# Supervised Learning <h2>
+****Supervised** Learning**
 
  Supervised learning algorithms can be used to solve both and classification and regression problems.
 
@@ -38,7 +38,7 @@ Artificial Neural Network (ANNs):
 ANNs are the most commonly used tools in Machine Learning. A neural network is a statistical tool to interpret a set of features in the input data and it tries to either classify the input(Classification) and predict the output based on a continuous input(Regression).
 The process of creating a neural network in Python begins with the most basic form, a single perceptron. We can extend the discussion to multilayer perceptrons, or more commonly known as artificial neural networks.
 
-# Unsupervised learning <h3>
+****Unsupervised** learning**
 algorithm will be use a metric such as distance in order to identify how close a set of points are to each other and how far apart two such groups are.
 
 k-Means cluster: 
