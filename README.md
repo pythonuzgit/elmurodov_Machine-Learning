@@ -1,7 +1,7 @@
 #  Machine learning with Python <h1>
-* Within the field of machine learning, there are two main types of tasks: supervised and unsupervised. Scikit-learn provides a wide selection of supervised and unsupervised learning algorithms.* 
+*Within the field of machine learning, there are two main types of tasks: supervised and unsupervised. Scikit-learn provides a wide selection of supervised and unsupervised learning algorithms.* 
 
-** **Scikit-Learn** is built on top several common data and math python libraries.**
+****Scikit-Learn** is built on top several common data and math python libraries.**
 
 NumPy: a library for scientific computing, Linear Algebra and array package.
 
