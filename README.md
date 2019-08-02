@@ -23,7 +23,6 @@ This Supervised Learning algorithm is used to predict continuous, numerical valu
 **Logistic regression:** 
 as a tool for building model which is used to a descrete set of classes. Logistic regression is commonly used when the response variable is continuous and a more complex cost function, this cost function can be defined as the 'Sigmoid function'.
 [GitHub](https://github.com/pythonuzgit/samuz/blob/master/Logistic%20Regression%20.ipynb)
-
 and [see also a Another Example](https://github.com/pythonuzgit/elmurodov_logistic)
 
 **k-nearest neigbors:** 
