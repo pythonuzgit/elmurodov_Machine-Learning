@@ -56,7 +56,11 @@ K-Means clustering is one of the most commonly used clustering algorithms, which
 [Example 1](https://github.com/pythonuzgit/samuz/blob/master/K-Means%20Clusters%20with%20ipl.csv.ipynb)
 
 
-**Principal Component analysis:**
+**Principal Component analysis (PCA):**
+PCA is an important technique to undersand in the fields of statistics and data science/machine learning. PCA simplifies the complexity in high-dimensional data. It does this by transforming the data into fewer dimensions, which act as summaries of features. PCA is fundamentally a dimensionality reduction algorithm, but it can also be useful as a tool for visualization, for noise filtering, for feature extraction and engineering, and much more.
 
-**Gaussian Mixture Models:**
+
+**A Gaussian Mixture Models (GMM):**
+GMM is a category of probabilistic model which states that all generated data points are derived from a mixture of a finite Gaussian distributions that has no known parameters.
+Gaussian mixture models are very useful when it comes to modeling data, especially data which comes from several groups.
 
