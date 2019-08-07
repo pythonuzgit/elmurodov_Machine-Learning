@@ -43,6 +43,10 @@ The process of creating a neural network in Python begins with the most basic fo
 [Example 1](https://github.com/pythonuzgit/elmurodov) and see also
 [Example 2](https://github.com/pythonuzgit/elmurodov/blob/master/Neural_Network%20with%20diabets%20data.ipynb)
 
+**Principal Component analysis:**
+
+**Manifold Learning:**
+
 ****Unsupervised** learning**
 
 Unsupervised learning algorithm will be use a metric such as distance in order to identify how close a set of points are to each other and how far apart two such groups are.
@@ -51,4 +55,7 @@ Unsupervised learning algorithm will be use a metric such as distance in order t
 K-Means clustering is one of the most commonly used clustering algorithms, which belong to the family of unsupervised machine learning models. It tries to find cluster centers that are representative of certain regions of the data. Therefore, the specific algorithm that you want to might depend on the problem you are trying to solve and also on what algorithm are available in the specific package that you are using. As we know some of the first clustering algorithm consisted of simply finding the centroid positions that minimize the distances to all the points in each cluster. The points in each cluster are closer to that centroid than other cluster centroids. As might be obvious at this point, the hardest part with this is figuring out how many clusters there are.
 [Example 1](https://github.com/pythonuzgit/samuz/blob/master/K-Means%20Clusters%20with%20ipl.csv.ipynb)
 
+
+
+**Gaussian Mixture Models**
 
