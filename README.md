@@ -46,6 +46,7 @@ The process of creating a neural network in Python begins with the most basic fo
 
 
 **Manifold Learning:**
+A  manifold is very important concept in mathematics. In layman's terms, you can think of it as a surface of any shape. It doesn't neccessarily have to be a plane i.e. It can be shaped loke a folded sheet with all the curves. This is generalized to 'n' dimensional and formalized as "manifold" in mathematics. 
 
 ****Unsupervised** learning**
 
@@ -57,6 +58,7 @@ K-Means clustering is one of the most commonly used clustering algorithms, which
 
 
 **Principal Component analysis (PCA):**
+PCA is an unsupervised learning method.
 PCA is an important technique to undersand in the fields of statistics and data science/machine learning. PCA simplifies the complexity in high-dimensional data. It does this by transforming the data into fewer dimensions, which act as summaries of features. PCA is fundamentally a dimensionality reduction algorithm, but it can also be useful as a tool for visualization, for noise filtering, for feature extraction and engineering, and much more.
 
 
