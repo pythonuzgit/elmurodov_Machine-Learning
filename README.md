@@ -19,6 +19,7 @@
 
 **Linear Regresion:** 
 This Supervised Learning algorithm is used to predict continuous, numerical values based on given data input. Linear Regression tries to find parameters of the linear function, so the distance between the all the points and the like is as small as possible.
+[Example](https://github.com/pythonuzgit/elmurodov_linearregression/blob/master/LinearRegression%20with%20cars%20datasets.ipynb)
 
 **Logistic regression:** 
 as a tool for building model which is used to a descrete set of classes. Logistic regression is commonly used when the response variable is continuous and a more complex cost function, this cost function can be defined as the 'Sigmoid function'.
