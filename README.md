@@ -43,7 +43,7 @@ The process of creating a neural network in Python begins with the most basic fo
 [Example 1](https://github.com/pythonuzgit/elmurodov) and see also
 [Example 2](https://github.com/pythonuzgit/elmurodov/blob/master/Neural_Network%20with%20diabets%20data.ipynb)
 
-**Principal Component analysis:**
+
 
 **Manifold Learning:**
 
@@ -56,6 +56,7 @@ K-Means clustering is one of the most commonly used clustering algorithms, which
 [Example 1](https://github.com/pythonuzgit/samuz/blob/master/K-Means%20Clusters%20with%20ipl.csv.ipynb)
 
 
+**Principal Component analysis:**
 
-**Gaussian Mixture Models**
+**Gaussian Mixture Models:**
 
