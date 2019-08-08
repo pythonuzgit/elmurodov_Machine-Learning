@@ -67,4 +67,5 @@ PCA is an important technique to undersand in the fields of statistics and data 
 **A Gaussian Mixture Models (GMM):**
 GMM is a category of probabilistic model which states that all generated data points are derived from a mixture of a finite Gaussian distributions that has no known parameters.
 Gaussian mixture models are very useful when it comes to modeling data, especially data which comes from several groups.
+[Example](https://github.com/pythonuzgit/elmurodov_gmm/blob/master/Gaussian%20Mixture%20Model%20(GMM)%20with%20motor%20datasets.ipynb)
 
