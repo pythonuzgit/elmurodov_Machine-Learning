@@ -47,8 +47,7 @@ The process of creating a neural network in Python begins with the most basic fo
 
 
 
-**Manifold Learning:**
-A  manifold is very important concept in mathematics. In layman's terms, you can think of it as a surface of any shape. It doesn't neccessarily have to be a plane i.e. It can be shaped loke a folded sheet with all the curves. This is generalized to 'n' dimensional and formalized as "manifold" in mathematics. 
+
 
 ****Unsupervised** learning**
 
