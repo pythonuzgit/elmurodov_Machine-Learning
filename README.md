@@ -41,8 +41,9 @@ algorithm can be defined as a supervised classification algorithm which is based
 **Artificial Neural Network (ANNs):**
 ANNs are the most commonly used tools in Machine Learning. A neural network is a statistical tool to interpret a set of features in the input data and it tries to either classify the input(Classification) and predict the output based on a continuous input(Regression).
 The process of creating a neural network in Python begins with the most basic form, a single perceptron. We can extend the discussion to multilayer perceptrons, or more commonly known as artificial neural networks.
-[Example 1](https://github.com/pythonuzgit/elmurodov) and see also
-[Example 2](https://github.com/pythonuzgit/elmurodov/blob/master/Neural_Network%20with%20diabets%20data.ipynb)
+[Example 1](https://github.com/pythonuzgit/elmurodov) and
+[Example 2](https://github.com/pythonuzgit/elmurodov/blob/master/Artificial%20Neural%20Networks%20with%20climate-model-simulation-crashes_csv.ipynb) and see also
+[GitHub](https://github.com/pythonuzgit/elmurodov/blob/master/Neural_Network%20with%20diabets%20data.ipynb)
 
 
 
