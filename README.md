@@ -72,21 +72,21 @@ Gaussian mixture models are very useful when it comes to modeling data, especial
 
 See also
 
-**Linear Regresion:**
+% **Linear Regresion:**
 
-**Logistic regression:** 
+%**Logistic regression:** 
 
-**k-nearest neigbors:** 
+%**k-nearest neigbors:** 
 
-**Support vector machines (SVM):**
+%**Support vector machines (SVM):**
 
-**Naive Bayes:** 
+%**Naive Bayes:** 
 
-**Artificial Neural Network (ANNs):**
+%**Artificial Neural Network (ANNs):**
 
-**k-Means cluster:** 
-**Principal Component analysis (PCA):**
-**A Gaussian Mixture Models (GMM):**
+%**k-Means cluster:** 
+%**Principal Component analysis (PCA):**
+%**A Gaussian Mixture Models (GMM):**
 
 
 
