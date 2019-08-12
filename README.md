@@ -70,23 +70,4 @@ Gaussian mixture models are very useful when it comes to modeling data, especial
 [Example](https://github.com/pythonuzgit/elmurodov_gmm/blob/master/Gaussian%20Mixture%20Model%20(GMM)%20with%20motor%20datasets.ipynb)
 
 
-See also
-
-% **Linear Regresion:**
-
-%**Logistic regression:** 
-
-%**k-nearest neigbors:** 
-
-%**Support vector machines (SVM):**
-
-%**Naive Bayes:** 
-
-%**Artificial Neural Network (ANNs):**
-
-%**k-Means cluster:** 
-%**Principal Component analysis (PCA):**
-%**A Gaussian Mixture Models (GMM):**
-
-
 
