@@ -36,6 +36,7 @@ SVMs are a set of related supervised learning methods used for classification an
 
 
 **Random Forest**
+[Example](https://github.com/pythonuzgit/elmurodov_RandomForest.git)
 
 
 **Naive Bayes:** 
