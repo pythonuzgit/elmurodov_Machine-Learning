@@ -1,7 +1,7 @@
 
 # Deep Learning (TensorFlow and keras)
 
-
+Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
 
 
 
