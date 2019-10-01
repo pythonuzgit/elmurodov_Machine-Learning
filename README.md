@@ -95,4 +95,4 @@ Gaussian mixture models are very useful when it comes to modeling data, especial
 
 
 
- 
+  
