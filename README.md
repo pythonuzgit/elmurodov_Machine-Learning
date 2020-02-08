@@ -66,19 +66,6 @@ K-Means clustering is one of the most commonly used clustering algorithms, which
 [Example](https://github.com/pythonuzgit/samuz/blob/master/K-Means%20Clusters%20with%20ipl.csv.ipynb)
 
 
-
-# Deep Learning (TensorFlow and keras)
-
-Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
-
-**Linear Regression in Tensorflow** 
-[Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
-
-**Neural Network in Tensorflow**
-[Example 1](https://github.com/pythonuzgit/elmurodov_tensorflow) and 
-[Example 2](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
-
-
 **Principal Component analysis (PCA):**
 PCA is an unsupervised learning method.
 PCA is an important technique to undersand in the fields of statistics and data science/machine learning. PCA simplifies the complexity in high-dimensional data. It does this by transforming the data into fewer dimensions, which act as summaries of features. PCA is fundamentally a dimensionality reduction algorithm, but it can also be useful as a tool for visualization, for noise filtering, for feature extraction and engineering, and much more.
@@ -91,5 +78,14 @@ Gaussian mixture models are very useful when it comes to modeling data, especial
 [Example](https://github.com/pythonuzgit/elmurodov_gmm/blob/master/Gaussian%20Mixture%20Model%20(GMM)%20with%20motor%20datasets.ipynb)
 
 
+# See also Deep Learning (TensorFlow and keras) with python
 
+Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
+
+**Linear Regression in Tensorflow** 
+[Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
+
+**Neural Network in Tensorflow**
+[Example 1](https://github.com/pythonuzgit/elmurodov_tensorflow) and 
+[Example 2](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
   
