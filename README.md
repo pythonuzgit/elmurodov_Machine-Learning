@@ -88,4 +88,11 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 **Neural Network in Tensorflow**
 [Example 1](https://github.com/pythonuzgit/elmurodov_tensorflow) and 
 [Example 2](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
+
+
+
+# See also NAtural Language Processing with python
+
+**Text Classification** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process)
+
   
