@@ -83,7 +83,13 @@ Gaussian mixture models are very useful when it comes to modeling data, especial
 Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
 
 **Linear Regression in Tensorflow** 
-[Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
+
+*  **Linear Regression in Tensorflow with seismic-bumps dataset**[Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
+*  **Keras Neural Network for Linear Regression with Beauty Data**
+*  **Keras Neural Network for logistic regression with satimage_csv data**
+*  **Multilayer perceptron with abalone dataset**
+*  **Neural Network in Keras with page-blocks dataset**[Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
+*  **Neural Network in Keras with phoneme datset.ipynb**[Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
 
 **Neural Network in Tensorflow**
 [Example 1](https://github.com/pythonuzgit/elmurodov_tensorflow) and 
