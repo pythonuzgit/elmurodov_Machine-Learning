@@ -1,20 +1,4 @@
 
-# Deep Learning (TensorFlow and keras)
-
-Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
-
-**Linear Regression in Tensorflow** 
-[Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
-
-**Neural Network in Tensorflow**
-[Example 1](https://github.com/pythonuzgit/elmurodov_tensorflow) and 
-[Example 2](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
-
-
-
-
-
-
 
 
 #  Machine learning with Python <h1>
@@ -80,6 +64,19 @@ Unsupervised learning algorithm will be use a metric such as distance in order t
 **k-Means cluster:** 
 K-Means clustering is one of the most commonly used clustering algorithms, which belong to the family of unsupervised machine learning models. It tries to find cluster centers that are representative of certain regions of the data. Therefore, the specific algorithm that you want to might depend on the problem you are trying to solve and also on what algorithm are available in the specific package that you are using. As we know some of the first clustering algorithm consisted of simply finding the centroid positions that minimize the distances to all the points in each cluster. The points in each cluster are closer to that centroid than other cluster centroids. As might be obvious at this point, the hardest part with this is figuring out how many clusters there are.
 [Example](https://github.com/pythonuzgit/samuz/blob/master/K-Means%20Clusters%20with%20ipl.csv.ipynb)
+
+
+
+# Deep Learning (TensorFlow and keras)
+
+Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
+
+**Linear Regression in Tensorflow** 
+[Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
+
+**Neural Network in Tensorflow**
+[Example 1](https://github.com/pythonuzgit/elmurodov_tensorflow) and 
+[Example 2](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
 
 
 **Principal Component analysis (PCA):**
