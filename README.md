@@ -92,6 +92,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 
 # See also NAtural Language Processing with python
 
-**Text Classification** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process)
 
-**Natural Language Processing** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process)
+* **Text Classification with Football-Scenarios-DFE-832307.csv.ipynb** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Football-Scenarios-DFE-832307.csv.ipynb)
+* **Text Classification with Natural Language Processing in Python - agreement-sentence-agreement-DFE dataset.ipynb** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Natural%20Language%20Processing%20in%20Python%20-%20agreement-sentence-agreement-DFE%20dataset.ipynb)
+* **Text Classification with agreement-sentence-agreement-DFE.csv.ipynb** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20agreement-sentence-agreement-DFE.csv.ipynb)
