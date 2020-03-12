@@ -34,7 +34,8 @@ SVMs are a set of related supervised learning methods used for classification an
 [Example](https://github.com/pythonuzgit/samuz/blob/master/Support%20Vector%20Machine%20with%20Nonlinear%20kernel.ipynb)
 
 
-**Random Forest**
+**Random Forest:**
+Random forests is a supervised learning algorithm. It can be used both for classification and regression. A Random forest ii made of many decision trees. Random forest has a variety of applications, such as recommendation engines, image classification and feature selection. 
 [Example](https://github.com/pythonuzgit/elmurodov_RandomForest.git)
 
 
