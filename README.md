@@ -26,6 +26,7 @@ as a tool for building model which is used to a descrete set of classes. Logisti
 and [see also Example 2](https://github.com/pythonuzgit/elmurodov_logistic)
 
 **k-nearest neigbors:** 
+How likely a point belongs to one class or other depending upon which class it's 'k' nearest instances belong to.
 k-nearest neighbor algorithm (KNN) is a non-parmetric method and can be used for both classification and regression problem.
 [Example](https://github.com/pythonuzgit/samuz/blob/master/k%20nearest%20neighbors%20classifications.ipynb)
 
