@@ -81,15 +81,6 @@ Gaussian mixture models are very useful when it comes to modeling data, especial
 Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
 
 
-# See also Deep Learning for Natural Language Prosessing (NLP)
-
-* **Deep learning for Natural language processing.ipynb**[Example] (https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
-
-* **Generating text using a recurrent neural network.ipynb** [Example] (https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
-
-
-
-
 
 *  **Linear Regression in Tensorflow with seismic-bumps dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
 *  **Keras Neural Network for Linear Regression with Beauty Data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/commit/3929085d0a8787635b4b2f79eb73a3a27f4b3e98)
@@ -97,6 +88,13 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 *  **Multilayer perceptron with abalone dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Multilayer%20perceptron%20with%20abalone%20dataset.ipynb)
 *  **Neural Network in Keras with page-blocks dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
 *  **Neural Network in Keras with phoneme datset.ipynb** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
+
+
+# See also Deep Learning for Natural Language Prosessing (NLP)
+
+* **Deep learning for Natural language processing.ipynb**[Example] (https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Deep%20learning%20for%20Natural%20language%20processing.ipynb)
+
+* **Generating text using a recurrent neural network.ipynb** [Example] (https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
 
 
 
