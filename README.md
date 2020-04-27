@@ -97,6 +97,10 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 * **Generating text using a recurrent neural network.ipynb** [Example] (https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Generating%20text%20using%20a%20recurrent%20neural%20network.ipynb)
 
 
+* **Text Generation with LSTM RNN with Keras** 
+[Example] (https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20Generation%20with%20LSTM%20RNN%20with%20Keras.ipynb)
+
+
 
 
 
